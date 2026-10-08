@@ -1,3 +1,5 @@
+<img src="ticker.svg" width="100%" alt="SYSTEM ONLINE — Debajyoti Hazra · BCA student · AI/ML developer" />
+
 # SYSTEM ONLINE
 
 ```console
