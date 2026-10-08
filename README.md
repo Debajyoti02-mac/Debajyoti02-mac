@@ -1,42 +1,51 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,60:0a0a0f,100:ff00a0&height=150&section=header&text=DEBAJYOTI&fontSize=54&fontColor=00f0ff&fontAlignY=45&desc=//%20AGENTIC%20AI%20%C2%B7%20NEURAL%20NETRUNNER%20IN%20TRAINING&descSize=13&descColor=ff00a0&descAlignY=72" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:0a0a0f,70:ff003c,100:fcee0a&height=220&section=header&text=DEBAJYOTI&fontSize=58&fontColor=fcee0a&stroke=00f0ff&strokeWidth=2&fontAlignY=42&desc=%E2%96%8C%20NIGHT%20CITY%20%E2%80%A2%20AGENTIC%20AI%20NETRUNNER%20%E2%96%90&descSize=14&descColor=00f0ff&descAlignY=68" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=520&lines=%3E+booting+agent_core...;%3E+retrieval+%E2%80%A2+reasoning+%E2%80%A2+memory;%3E+status%3A+building" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=900&color=FCEE0A&background=00000000&center=true&vCenter=true&width=640&lines=%5B+SYSTEM+ONLINE+%5D;%5B+ACCESS+GRANTED+%5D+%E2%96%B8+agent_core;%5B+JACKING+IN+%5D+%E2%96%B8+RAG+%E2%80%A2+LangGraph;%5B+STATUS+%5D+%E2%96%B8+BUILDING" alt="typing" />
 </p>
 
-```text
-┌──[ debajyoti@netrunner ]─[~]
-└─$ cat profile.sys
-
-  ROLE      : BCA student → AI/ML engineer
-  FOCUS     : agentic systems · DSA
-  BUILDING  : Research-Agent
-  LEARNING  : RAG · Tool Calling · Multi-Agent · LangGraph
+```ansi
+ ╔══════════════════════════════════════════════════════╗
+ ║  ▓▒░ NETRUNNER PROFILE ░▒▓          [ ID: DEBAJYOTI ] ║
+ ╠══════════════════════════════════════════════════════╣
+ ║  CLASS      ▸  BCA student → AI/ML engineer           ║
+ ║  SPECIALTY  ▸  Agentic systems · DSA                  ║
+ ║  ACTIVE OP  ▸  Research-Agent                         ║
+ ║  INSTALLING ▸  RAG · Tool Calling · Multi-Agent       ║
+ ║                LangGraph                              ║
+ ║  CREED      ▸  Build it by hand. Abstract it later.   ║
+ ╚══════════════════════════════════════════════════════╝
 ```
 
-```text
-┌──[ roadmap.log ]
-│
-│  Naive RAG ▸ ChromaDB ▸ Tool Calling ▸ ReAct ▸ Memory
-│        ▸ Multi-Agent ▸ LangGraph ▸ LangSmith ▸ Deploy
-│
-└─ [ ▓▓▓▓▓▓▓░░░░░░░░ ] in progress
+```ansi
+ ┌─[ ROADMAP // NEURAL UPGRADE PATH ]──────────────────────
+ │
+ │  [01] Naive RAG      [02] ChromaDB       [03] Tool Calling
+ │  [04] ReAct Agent    [05] Memory         [06] Multi-Agent
+ │  [07] LangGraph      [08] LangSmith      [09] Deploy
+ │
+ └─ SYNC ▕████████████░░░░░░░░░▏ upgrading...
 ```
 
-**`> NOW`** &nbsp;[**Research-Agent**](https://github.com/Debajyoti02-mac/Research-Agent-)
-
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00f0ff&labelColor=000000&color=00f0ff" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00f0ff&labelColor=000000&color=00f0ff" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=ff00a0&labelColor=000000&color=ff00a0" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=ff00a0&labelColor=000000&color=ff00a0" />
-  <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logoColor=fcee0a&labelColor=000000&color=fcee0a" />
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=fcee0a&labelColor=000000&color=fcee0a" />
+<p align="center">
+  <b>▌ ACTIVE OP ▐</b> &nbsp;
+  <a href="https://github.com/Debajyoti02-mac/Research-Agent-">
+    <img src="https://img.shields.io/badge/%E2%96%B8_RESEARCH--AGENT-000000?style=for-the-badge&labelColor=000000&color=fcee0a" />
+  </a>
 </p>
 
-<p>
-  <a href="mailto:debuhazra96@gmail.com"><img src="https://img.shields.io/badge/%3E_CONTACT-000000?style=flat-square&labelColor=000000&color=00f0ff" /></a>
-  <a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/%3E_LINKEDIN-000000?style=flat-square&labelColor=000000&color=ff00a0" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00f0ff&color=00f0ff" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00f0ff&color=00f0ff" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=ff003c&color=ff003c" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=ff003c&color=ff003c" />
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logoColor=fcee0a&color=fcee0a" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=fcee0a&color=fcee0a" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00a0,100:000000&height=6&section=footer" width="100%" />
+<p align="center">
+  <a href="mailto:debuhazra96@gmail.com"><img src="https://img.shields.io/badge/%E2%96%B8_COMMS-000000?style=for-the-badge&labelColor=000000&color=00f0ff" /></a>
+  <a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/%E2%96%B8_NETWORK-000000?style=for-the-badge&labelColor=000000&color=ff003c" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcee0a,50:ff003c,100:000000&height=80&section=footer&reversal=true" width="100%" />
