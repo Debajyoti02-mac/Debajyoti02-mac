@@ -1,4 +1,4 @@
-<img src="ticker.svg" width="100%" alt="SYSTEM ONLINE — Debajyoti Hazra · BCA student · AI/ML developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=1400&color=2DD4BF&background=0D1117&width=720&height=38&vCenter=true&repeat=true&lines=%3E+SYSTEM+ONLINE+%C2%B7+DEBAJYOTI+HAZRA;%3E+BCA+STUDENT+%C2%B7+AI%2FML+DEVELOPER;%3E+DEEP+LEARNING+%C2%B7+CNN+%C2%B7+RNN+%C2%B7+TRANSFORMER;%3E+RAG+%C2%B7+FAISS+%C2%B7+SENTENCE-TRANSFORMERS+%C2%B7+RERANKING;%3E+BUILDING+%C2%B7+RESEARCH-AGENT" alt="SYSTEM ONLINE · Debajyoti Hazra · BCA student · AI/ML developer" />
 
 # SYSTEM ONLINE
 
