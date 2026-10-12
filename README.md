@@ -1,49 +1,57 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=1400&color=2DD4BF&background=0D1117&width=720&height=38&vCenter=true&repeat=true&lines=%3E+SYSTEM+ONLINE+%C2%B7+DEBAJYOTI+HAZRA;%3E+BCA+STUDENT+%C2%B7+AI%2FML+DEVELOPER;%3E+DEEP+LEARNING+%C2%B7+CNN+%C2%B7+RNN+%C2%B7+TRANSFORMER;%3E+RAG+%C2%B7+FAISS+%C2%B7+SENTENCE-TRANSFORMERS+%C2%B7+RERANKING;%3E+BUILDING+%C2%B7+RESEARCH-AGENT" alt="SYSTEM ONLINE · Debajyoti Hazra · BCA student · AI/ML developer" />
+<div align="center">
 
-# SYSTEM ONLINE
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1600&color=2DD4BF&background=0D1117&width=640&height=40&vCenter=true&center=true&repeat=true&lines=Debajyoti+Hazra;AI%2FML+Developer+%C2%B7+BCA+Student;Deep+Learning+%C2%B7+RAG+%C2%B7+Agentic+Systems" alt="Debajyoti Hazra · AI/ML Developer · BCA Student" />
+
+</div>
 
 ```console
-debajyoti@workstation:~$ ./status
+debajyoti@workstation:~$ whoami
 
-user     debajyoti_hazra
+name     Debajyoti Hazra
 role     BCA student · AI/ML developer
-focus    deep learning · RAG · agents
-state    building
+focus    deep learning · retrieval-augmented generation · agents
+status   building research-agent
 ```
 
 ---
 
-## BUILD
+### Currently Building
 
 ```console
-$ ls ~/build
-research-agent/    # in progress
+$ ls ~/building
+research-agent/
 ```
 
 [`Debajyoti02-mac/Research-Agent-`](https://github.com/Debajyoti02-mac/Research-Agent-)
 
 ---
 
-## STACK
+### Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,git,github&theme=dark" height="28" alt="python,pytorch,git,github" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,git,github&theme=dark" height="28" alt="Python, PyTorch, Git, GitHub" />
 
-<img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=2dd4bf&labelColor=0d1117&color=30363d" alt="Jupyter" /> <img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="FAISS" /> <img src="https://img.shields.io/badge/Sentence--Transformers-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Sentence--Transformers" />
-
----
-
-## PROJECTS
-
-| | Project | Area | Notes |
-|:-:|---|---|---|
-| <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="20" alt="python,pytorch" /> | [CNN](https://github.com/Debajyoti02-mac/Convucational-Neural-Network-) | Deep learning | Convolutional network in PyTorch |
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" height="20" alt="python" /> | [Next-token prediction](https://github.com/Debajyoti02-mac/Next-Token-Prediction-) | Deep learning | RNN-based next-token model |
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" height="20" alt="python" /> | [Sentiment analysis](https://github.com/Debajyoti02-mac/Sentimental-Analysis) | Deep learning | RNN-based classifier |
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" height="20" alt="python" /> | [Multi-head transformer](https://github.com/Debajyoti02-mac/MultiHead-Transformer-Arcitechture) | Deep learning | Multi-head attention, residual connections, layer norm |
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" height="20" alt="python" /> | [FAISS + Sentence Transformers](https://github.com/Debajyoti02-mac/Faiss-and-SentenceTransfomer-Using-RAG) | RAG | Retrieval-augmented generation with a FAISS index |
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" height="20" alt="python" /> | [Hybrid RAG + reranker](https://github.com/Debajyoti02-mac/ReRanker-Hybrid-RAG) | RAG | Naive RAG with static distance calculation |
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" height="20" alt="python" /> | [Research-Agent](https://github.com/Debajyoti02-mac/Research-Agent-) | Agents | In progress |
+<img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=2dd4bf&labelColor=0d1117&color=30363d" alt="Jupyter" /> <img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="FAISS" /> <img src="https://img.shields.io/badge/Sentence--Transformers-0d1117?style=flat-square&labelColor=0d1117&color=30363d" alt="Sentence-Transformers" />
 
 ---
 
-<sub>[email](mailto:debuhazra96@gmail.com) · [github](https://github.com/Debajyoti02-mac)</sub>
+### Projects
+
+| Project | Area | Description |
+|---|---|---|
+| [CNN](https://github.com/Debajyoti02-mac/Convucational-Neural-Network-) | Deep Learning | Convolutional neural network in PyTorch |
+| [Next-Token Prediction](https://github.com/Debajyoti02-mac/Next-Token-Prediction-) | Deep Learning | RNN-based next-token model |
+| [Sentiment Analysis](https://github.com/Debajyoti02-mac/Sentimental-Analysis) | Deep Learning | RNN-based text classifier |
+| [Multi-Head Transformer](https://github.com/Debajyoti02-mac/MultiHead-Transformer-Arcitechture) | Deep Learning | Multi-head attention, residual connections, layer normalization |
+| [FAISS + Sentence Transformers](https://github.com/Debajyoti02-mac/Faiss-and-SentenceTransfomer-Using-RAG) | RAG | Retrieval-augmented generation over a FAISS index |
+| [Hybrid RAG + Reranker](https://github.com/Debajyoti02-mac/ReRanker-Hybrid-RAG) | RAG | Hybrid retrieval with a reranking stage |
+| [Research-Agent](https://github.com/Debajyoti02-mac/Research-Agent-) | Agents | In progress |
+
+---
+
+### Contact
+
+```console
+$ cat ~/contact
+email    debuhazra96@gmail.com
+github   github.com/Debajyoti02-mac
+```
