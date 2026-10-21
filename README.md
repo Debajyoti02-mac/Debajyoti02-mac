@@ -24,7 +24,7 @@
 <h2 align="center"><i>Statistics</i></h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debajyoti02-mac&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&area_color=2dd4bf&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com/?user=Debajyoti02-mac&background=0d1117&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=2dd4bf&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&hide_border=true" alt="Contribution stats" />
 </p>
 
 <h2 align="center"><i>About Me</i></h2>
