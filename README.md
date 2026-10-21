@@ -15,6 +15,16 @@ status   building research-agent
 
 ---
 
+### About
+
+```console
+$ cat ~/about.txt
+BCA student building AI/ML systems from first principles:
+neural networks, retrieval pipelines, and agents.
+```
+
+---
+
 ### Currently Building
 
 ```console
@@ -45,6 +55,20 @@ research-agent/
 | [FAISS + Sentence Transformers](https://github.com/Debajyoti02-mac/Faiss-and-SentenceTransfomer-Using-RAG) | RAG | Retrieval-augmented generation over a FAISS index |
 | [Hybrid RAG + Reranker](https://github.com/Debajyoti02-mac/ReRanker-Hybrid-RAG) | RAG | Hybrid retrieval with a reranking stage |
 | [Research-Agent](https://github.com/Debajyoti02-mac/Research-Agent-) | Agents | In progress |
+
+---
+
+### Activity
+
+```console
+$ git log --contributions --graph
+```
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Debajyoti02-mac&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&area_color=2dd4bf&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+
+</div>
 
 ---
 
