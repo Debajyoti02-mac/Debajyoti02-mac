@@ -1,21 +1,20 @@
-```text
-$ whoami
+```bash
+debajyoti@github:~$ whoami
 debajyoti hazra — ai/ml developer · backend engineer
 
-$ status
+debajyoti@github:~$ cat status.txt
 building · learning by building
 
-$ projects
-research-agent ... in progress
-self-rag ......... completed
-fine-tuning ...... learning
-cnn .............. study
+debajyoti@github:~$ ls projects/
+research-agent/   self-rag/   fine-tuning/   cnn/
 
-$ stack
+debajyoti@github:~$ cat stack.txt
 python · pytorch · langchain · langgraph · fastapi · mcp · chromadb
 
-$ focus
+debajyoti@github:~$ echo $FOCUS
 ai systems | backend | dsa
+
+debajyoti@github:~$ _
 ```
 
 [github](https://github.com/debajyoti02-mac) · [repositories](https://github.com/debajyoti02-mac?tab=repositories)
