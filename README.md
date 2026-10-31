@@ -92,16 +92,6 @@ Core Languages        ::  Python 3.12+ · SQL (SQLite / PostgreSQL) · Shell Scr
 * **Production-First AI:** Avoid opaque multi-agent abstractions when single-agent or multi-tool REST services provide higher throughput, easier tracing, and zero bloat.
 * **Resource-Aware Engineering:** Optimize local inference pipelines (Ollama) to manage memory constraints effectively on Apple Silicon hardware.
 
----
-
-### 📊 System Metrics & Metrics Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debajyoti02-mac&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Debajyoti's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debajyoti02-mac&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ```
 debajyoti@infrastructure:~$ exit
